@@ -24,6 +24,15 @@ gem 'jbuilder', '~> 2.7'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
+gem "bulma-rails", "~> 0.6.1"
+gem 'devise', '~> 4.3'
+gem 'carrierwave', '~> 1.2', '>= 1.2.1'
+gem 'simple_form', '~> 3.5'
+gem "mini_magick"
+gem 'impressionist', '~> 1.6'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+gem 'gravatar_image_tag'
+gem 'acts_as_votable', '~> 0.11.1'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
