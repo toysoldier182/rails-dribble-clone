@@ -26,7 +26,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'image_processing', '~> 1.2'
 gem "bulma-rails", "~> 0.6.1"
 gem 'devise', '~> 4.3'
-gem 'carrierwave', '~> 1.2', '>= 1.2.1'
+gem 'carrierwave', '~> 1.3'
 gem 'simple_form'
 gem "mini_magick"
 gem 'impressionist', '~> 1.6'
